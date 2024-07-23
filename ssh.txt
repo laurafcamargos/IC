@@ -1,0 +1,10 @@
+cmd para logar nas máquinas do GBDI:
+
+ssh laura@lbdi.icmc.usp.br
+senha: Callofduty234871@
+ssh laura@10.11.16.102 (exemplo)
+sudo mkdir -p /srv/laura
+sudo chown laura:laura /srv/laura
+ssh laura@10.11.16.103
+sudo mkdir -p /srv/laura
+sudo chown laura:laura /srv/laura
